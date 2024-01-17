@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    margin: 2% 0% 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.footercontent {
+    margin: 4% 20% 2%;
+    color: #5A5A5D;
+}
+
+.footer_logo {
+    text-align: center;
+}
+
+.footer_logo p {
+    color: #5A5A5D;
+}
+
+.footer_socal {
+    text-align: center;
+    overflow: hidden;
+}
+
+.footer_socal ul {
+    list-style: none;
+}
+
+.footer_socal ul li {
+    float: left;
+    padding-right: 30px;
+}
+
+.footer_socal ul {
+    list-style: none;
+    /* text-align: center; */
+    margin: 0%;
+}
+
+.footer_socal ul li i{
+    color: black; 
+}
+
+.copyright {
+ text-align: center;
+}
+
+hr {
+ color: rgba(19, 19, 24, 0.1);
+}
